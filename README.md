@@ -2,10 +2,10 @@
 
 This repository provides characterization data collected over 96 DDR3 SO-DIMMs, related to the following papers.
 
-**Lee et al.**, "[_Design-Induced Latency Variation in Modern DRAM Chips: Characterization, Analysis, and Latency Reduction Mechanisms_](https://people.inf.ethz.ch/omutlu/pub/DIVA-low-latency-DRAM_sigmetrics17-paper.pdf)
+- **Lee et al.**, "[_Design-Induced Latency Variation in Modern DRAM Chips: Characterization, Analysis, and Latency Reduction Mechanisms_](https://people.inf.ethz.ch/omutlu/pub/DIVA-low-latency-DRAM_sigmetrics17-paper.pdf)
 ", **SIGMETRICS 2017**
 
-**Lee et al.**, "[_Understanding and Exploiting Design-Induced Latency Variation in Modern DRAM Chips_](https://arxiv.org/abs/1610.09604)", **arXiv:1610.09604**
+- **Lee et al.**, "[_Understanding and Exploiting Design-Induced Latency Variation in Modern DRAM Chips_](https://arxiv.org/abs/1610.09604)", **arXiv:1610.09604**
 
 ### SPICE_MODEL
 - This directory contains the SPICE model of a DRAM array, which is used for the simulation data in APPENDIX B of the SIGMECTRISC 2017 paper. The tool used for the simulation is [LTspice](http://www.linear.com/designtools/software/). 
