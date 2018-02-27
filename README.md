@@ -13,5 +13,5 @@ This repository provides characterization data collected over 96 DDR3 SO-DIMMs, 
 ### PROFILE_DATA
 - This directory contains the data collected from our experiments.
 - **vendor/summary**: contains a quick overview of how many error bits are observed at different DRAM test conditions.
-- **vendor/rawdata**: contains detailed error information or the evaluated DIMMs, which is used for Sections 5 and 6 of the SITMECTRIC 2017 paper.
+- **vendor/rawdata**: contains detailed error information of the evaluated DIMMs, which is used for Sections 5 and 6 of the SITMECTRIC 2017 paper.
 - **vendor/analysis**: contains the collected and analyzed data for the papers.
