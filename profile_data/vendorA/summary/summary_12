@@ -1,0 +1,8 @@
+MODE   tREFI tRCD tRAS  tRP  tWR : 
+READ   256ms    5   15    5    6 : S....... S.......       4284 S 
+READ   256ms    5   14    4    6 : S....... S.......       7532 S 
+READ   256ms    5   15    3    6 : S....... S.......       9069 S 
+READ   256ms    5   14    2    6 : S....... S.......       7551 S 
+READ   256ms    4   15    5    6 : S.S.S.S. S.S.S.S.      47644 S 
+READ   256ms    3   15    5    6 : SSSSSSSS SSSSSSSS 5737689672 S 
+READ   256ms    2   15    5    6 : SSSSSSSS SSSSSSSS 8088934337 S 
